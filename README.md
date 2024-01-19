@@ -25,8 +25,12 @@ models-->proposed model MTCMAE and the comparison methods
 utils-->load dataset
 
 main_pretrain--> pre-train on Bigdataset
+
 main_finetune--> finetune on downstream datesets
+
 main_test--> test
+
 main_visulization--> visualization of mask reconstruction
+
 ## E-mail
 If you have any question, please feel free to contact us by e-mail (1022010403@njupt.edu.cn).
