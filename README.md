@@ -6,7 +6,7 @@ pytorch 2.0.1 python 3.8.16
 ## Dataset
 Experiments are conducted on EdgeIIoTset [1], Bot-IoT [2], USTC TFC-2016 [3], CIC-AndMal2017 [4], and ISCX VPN-NonVPN [5] datasets.
 
-[1] M. A. Ferrag, O. Friha, D. Hamouda, L. Maglaras, and H. Janicke, “Edge-IIoTset: A new comprehensive realistic cyber security dataset of IoT and IIoT applications for centralized and federated learning,” IEEE Access, vol. 10, no. 1, pp. 40281–40306, Apr. 2022.
+[1] M. A. Ferrag, O. Friha, D. Hamouda, L. Maglaras, and H. Janicke, “Edge-IIoTset: A new comprehensive realistic cyber security dataset of IoT and IIoT applications for centralized and federated learning,” IEEE Access, vol. 10, no. 1, pp. 40281–40306, Apr. 2022. (https://ieeexplore.ieee.org/abstract/document/9751703)
 
 [2] N. Koroniotis, N. Moustafa, E. Sitnikova, and B. Turnbull, “Towards the development of realistic botnet dataset in the Internet of Things for network forensic analytics: Bot-iot dataset,” Future Gener. Comput. Syst., vol. 100, no. 1, pp. 779–796, Nov. 2019.
 
