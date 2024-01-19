@@ -8,13 +8,13 @@ Experiments are conducted on EdgeIIoTset [1], Bot-IoT [2], USTC TFC-2016 [3], CI
 
 [1] M. A. Ferrag, O. Friha, D. Hamouda, L. Maglaras, and H. Janicke, “Edge-IIoTset: A new comprehensive realistic cyber security dataset of IoT and IIoT applications for centralized and federated learning,” IEEE Access, vol. 10, no. 1, pp. 40281–40306, Apr. 2022. (https://ieeexplore.ieee.org/abstract/document/9751703)
 
-[2] N. Koroniotis, N. Moustafa, E. Sitnikova, and B. Turnbull, “Towards the development of realistic botnet dataset in the Internet of Things for network forensic analytics: Bot-iot dataset,” Future Gener. Comput. Syst., vol. 100, no. 1, pp. 779–796, Nov. 2019.
+[2] N. Koroniotis, N. Moustafa, E. Sitnikova, and B. Turnbull, “Towards the development of realistic botnet dataset in the Internet of Things for network forensic analytics: Bot-iot dataset,” Future Gener. Comput. Syst., vol. 100, no. 1, pp. 779–796, Nov. 2019. (https://www.sciencedirect.com/science/article/abs/pii/S0167739X18327687)
 
-[3] W. Wang, M. Zhu, X. Zeng, X. Ye, and Y. Sheng, “Malware traffic classification using convolutional neural network for representation learning,” in Proc. ICOIN, Da Nang, Vietnam, 2017, pp. 712–717.
+[3] W. Wang, M. Zhu, X. Zeng, X. Ye, and Y. Sheng, “Malware traffic classification using convolutional neural network for representation learning,” in Proc. ICOIN, Da Nang, Vietnam, 2017, pp. 712–717. (https://ieeexplore.ieee.org/abstract/document/7899588)
 
-[4] A. H. Lashkari, A. F. A. Kadir, L. Taheri, and A. A. Ghorbani, “Toward developing a systematic approach to generate benchmark android malware datasets and classification,” in Proc. ICCST, Montreal, QC, Canada, 2018, pp. 1–7.
+[4] A. H. Lashkari, A. F. A. Kadir, L. Taheri, and A. A. Ghorbani, “Toward developing a systematic approach to generate benchmark android malware datasets and classification,” in Proc. ICCST, Montreal, QC, Canada, 2018, pp. 1–7. (https://ieeexplore.ieee.org/abstract/document/8585560)
 
-[5] G. Draper-Gil, A. H. Lashkari, M. S. I. Mamun, and A. A. Ghorbani, “Characterization of encrypted and vpn traffic using time-related,” in Proc. ICISSP, Rome, Italy, 2016, pp. 407–414.
+[5] G. Draper-Gil, A. H. Lashkari, M. S. I. Mamun, and A. A. Ghorbani, “Characterization of encrypted and vpn traffic using time-related,” in Proc. ICISSP, Rome, Italy, 2016, pp. 407–414. (https://www.scitepress.org/papers/2016/57407/57407.pdf)
 
 
 
